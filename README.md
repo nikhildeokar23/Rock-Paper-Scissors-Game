@@ -3,7 +3,7 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS and Java
 
 <br>
 
-Features:
+<h5>Features:</h5>
 <br>
 1. Interactive Gameplay: Choose rock, paper, scissors and play against a computer opponent that makes random moves.
 <br>
@@ -14,21 +14,26 @@ Features:
 <br>
 <br>
 
-How It Works:
+<h5>How It Works:</h5>
 <br>
 1. User Input: Click on one of three options (rock, paper, scissors).
 2. Computer Move: The computer randomly selects its move.
 3. Determine Winner: The game logic compares both moves and displays the results (win, lose or tie).
+   <br>
    The winner is decided based on the classic rules:
+   <br>
    [i]. Rock beats Scissors 
+   <br>
    [ii]. Scissors beats Paper
+   <br>
    [iii]. Paper beats Rock
+<br>
 4. Score Update: The score is updated by +1 after every win.
 
 <br>
 <br>
 
-Technologies Used:
+<h5>Technologies Used:</h5>
 <br>
 1. HTML for the structure.
 <br>
